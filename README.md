@@ -1,7 +1,7 @@
 # Alien-Invasion
 基于Python的《外星人入侵》游戏
 
-游玩说明
+游玩说明：
 
 1.WASD为移动键
 
